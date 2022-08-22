@@ -2,19 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6285815975368']
-global.premium = ['6285815975368']
-global.ownername = 'Liya'
-global.botname = 'AliyaBot'
-global.packname = '© by AliyaBot'
-global.gc = 'https://bit.ly/3KMlmv2'
-global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
-global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
-global.limitawal = '100'
-global.author = '@alya.xzy'
+global.owner = ['6283136824224']
+global.premium = ['6283136824224']
+global.ownername = 'Arull'
+global.botname = 'Tiramisu BOT'
+global.packname = 'Kobo kanaeru'
+global.gc = 'https://aruliazmi.my.id'
+global.linkyt = 'https://youtube.com/channel/aruliazmi'
+global.linkgc = 'https://aruliazmi.my,id'
+global.limitawal = '20'
+global.author = '@aruliazmi'
 global.sessionName = 'polo'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = 'terserah'
+global.sp = 'y in'
 global.mess = {
     success: 'Berhasil',
     admin: 'Fitur Khusus Admin Group!',
